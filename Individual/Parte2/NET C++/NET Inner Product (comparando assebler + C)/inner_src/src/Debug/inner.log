@@ -1,0 +1,8 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  inner.cpp
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\inner.cpp(20,17): warning C4477: 'wprintf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo '__int64'
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\inner.cpp(20,17): message : considere el uso de ' %lld' en la cadena de formato
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\inner.cpp(20,17): message : considere el uso de ' %I64d' en la cadena de formato
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\inner.cpp(242,22): warning C4244: '=': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\inner.cpp(290,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  inner.vcxproj -> C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Inner Product (comparando assebler + C)\inner_src\src\Debug\inner.exe

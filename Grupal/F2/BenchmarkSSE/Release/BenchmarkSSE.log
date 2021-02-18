@@ -1,0 +1,6 @@
+﻿  Benchmark.cpp
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  BenchmarkSSE.vcxproj -> C:\Users\Anubis\Desktop\UA\UAADCProjects\Grupal\F2\BenchmarkSSE\Release\BenchmarkSSE.exe

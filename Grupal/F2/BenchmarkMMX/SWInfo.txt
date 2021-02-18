@@ -1,0 +1,78 @@
+
+Host Name:                 DESKTOP-K851POD
+OS Name:                   Microsoft Windows 10 Education
+OS Version:                10.0.17134 N/A Build 17134
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          Usuario de Windows
+Registered Organization:   
+Product ID:                00328-00000-00000-AA890
+Original Install Date:     01/11/2018, 19:36:12
+System Boot Time:          01/04/2020, 22:49:59
+System Manufacturer:       System manufacturer
+System Model:              System Product Name
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 94 Stepping 3 GenuineIntel ~3401 Mhz
+BIOS Version:              American Megatrends Inc. 1702, 28/01/2016
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume5
+System Locale:             es;Spanish (International Sort)
+Input Locale:              es;Spanish (Traditional Sort)
+Time Zone:                 (UTC+01:00) Brussels, Copenhagen, Madrid, Paris
+Total Physical Memory:     16.305 MB
+Available Physical Memory: 9.612 MB
+Virtual Memory: Max Size:  17.329 MB
+Virtual Memory: Available: 8.826 MB
+Virtual Memory: In Use:    8.503 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\DESKTOP-K851POD
+Hotfix(s):                 20 Hotfix(s) Installed.
+                           [01]: KB4534130
+                           [02]: KB4230204
+                           [03]: KB4346084
+                           [04]: KB4456655
+                           [05]: KB4465663
+                           [06]: KB4477137
+                           [07]: KB4485449
+                           [08]: KB4486153
+                           [09]: KB4486161
+                           [10]: KB4486174
+                           [11]: KB4497398
+                           [12]: KB4509094
+                           [13]: KB4512576
+                           [14]: KB4516115
+                           [15]: KB4521861
+                           [16]: KB4523203
+                           [17]: KB4524244
+                           [18]: KB4537759
+                           [19]: KB4540724
+                           [20]: KB4540689
+Network Card(s):           3 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (2) I219-V
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.1.1
+                                 IP address(es)
+                                 [01]: 192.168.1.36
+                                 [02]: fe80::454:7ed5:c6c1:a016
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network #2
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::800b:91b0:46cd:eb52
+                           [03]: Microsoft KM-TEST Loopback Adapter
+                                 Connection Name: Npcap Loopback Adapter
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     255.255.255.255
+                                 IP address(es)
+                                 [01]: 169.254.137.27
+                                 [02]: fe80::403b:cc50:421b:891b
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes

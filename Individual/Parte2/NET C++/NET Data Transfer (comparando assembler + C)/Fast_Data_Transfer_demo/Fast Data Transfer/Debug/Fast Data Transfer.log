@@ -1,0 +1,5 @@
+﻿cl : línea de comandos warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Fast Data Transfer.cpp
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Data Transfer (comparando assembler + C)\Fast_Data_Transfer_demo\Fast Data Transfer\Fast Data Transfer.cpp(58,1): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(456): message : vea la declaración de 'getche'
+  Fast Data Transfer.vcxproj -> C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Data Transfer (comparando assembler + C)\Fast_Data_Transfer_demo\Fast Data Transfer\.\Debug\Fast Data Transfer.exe

@@ -1,0 +1,84 @@
+
+Nombre de host:                            DESKTOP-69KQDOB
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versi¢n del sistema operativo:             10.0.17763 N/D Compilaci¢n 17763
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              Usuario
+Organizaci¢n registrada:                   
+Id. del producto:                          00326-10000-00000-AA700
+Fecha de instalaci¢n original:             29/12/2018, 10:28:39
+Tiempo de arranque del sistema:            28/02/2020, 18:21:29
+Fabricante del sistema:                    Micro-Star International Co., Ltd.
+Modelo el sistema:                         GV62 7RD
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 158 Stepping 9 GenuineIntel ~2600 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. E16J9IMS.31C, 24/10/2017
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume2
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Cantidad total de memoria f¡sica:          8.113 MB
+Memoria f¡sica disponible:                 267 MB
+Memoria virtual: tama¤o m ximo:            16.639 MB
+Memoria virtual: disponible:               2.128 MB
+Memoria virtual: en uso:                   14.511 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-69KQDOB
+Revisi¢n(es):                              19 revisi¢n(es) instaladas.
+                                           [01]: KB4534131
+                                           [02]: KB4465065
+                                           [03]: KB4470502
+                                           [04]: KB4470788
+                                           [05]: KB4480056
+                                           [06]: KB4486153
+                                           [07]: KB4486161
+                                           [08]: KB4493510
+                                           [09]: KB4499728
+                                           [10]: KB4504369
+                                           [11]: KB4509095
+                                           [12]: KB4512577
+                                           [13]: KB4512937
+                                           [14]: KB4516115
+                                           [15]: KB4521862
+                                           [16]: KB4523204
+                                           [17]: KB4524244
+                                           [18]: KB4537759
+                                           [19]: KB4532691
+Tarjeta(s) de red:                         5 Tarjetas de interfaz de red instaladas.
+                                           [01]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi¢n: Conexi¢n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [02]: Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [03]: Intel(R) Dual Band Wireless-AC 3168
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.18.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.18.31
+                                                 [02]: fe80::dcc6:f5ac:aa01:e0d0
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::3c72:3810:c457:9643
+                                           [05]: LogMeIn Hamachi Virtual Ethernet Adapter
+                                                 Nombre de conexi¢n: Hamachi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      25.0.0.1
+                                                 Direcciones IP
+                                                 [01]: 25.91.101.47
+                                                 [02]: fe80::e47f:59de:e5be:6e01
+                                                 [03]: 2620:9b::195b:652f
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡

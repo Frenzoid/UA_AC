@@ -1,0 +1,1 @@
+C:\Users\Anubis\Desktop\UA\UAADCProjects\Grupal\F3\winmips\series.s

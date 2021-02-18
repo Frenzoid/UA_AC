@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=true:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|C:\Users\Anubis\Desktop\UA\UAADCProjects\Individual\Parte2\NET C++\NET Bubble Sort SSE (comparando assembler + C)\BubbleSortSSE2\BubbleSortSSE2\BubbleSortSSE2\|

@@ -1,0 +1,70 @@
+
+Nombre de host:                            GERMANBERNA
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versi¢n del sistema operativo:             10.0.18362 N/D Compilaci¢n 18362
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              germantor989@hotmail.com
+Organizaci¢n registrada:                   HP
+Id. del producto:                          00325-80000-00000-AAOEM
+Fecha de instalaci¢n original:             22/08/2019, 19:20:40
+Tiempo de arranque del sistema:            14/02/2020, 13:20:51
+Fabricante del sistema:                    HP
+Modelo el sistema:                         HP Laptop 15-da0xxx
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 142 Stepping 9 GenuineIntel ~2701 Mhz
+Versi¢n del BIOS:                          Insyde F.02, 24/05/2018
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume3
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Cantidad total de memoria f¡sica:          12.203 MB
+Memoria f¡sica disponible:                 6.734 MB
+Memoria virtual: tama¤o m ximo:            14.059 MB
+Memoria virtual: disponible:               7.910 MB
+Memoria virtual: en uso:                   6.149 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   FREEBSD-SO3
+Servidor de inicio de sesi¢n:              \\GERMANBERNA
+Revisi¢n(es):                              13 revisi¢n(es) instaladas.
+                                           [01]: KB4534132
+                                           [02]: KB4503308
+                                           [03]: KB4508433
+                                           [04]: KB4515383
+                                           [05]: KB4516115
+                                           [06]: KB4521863
+                                           [07]: KB4523786
+                                           [08]: KB4524569
+                                           [09]: KB4528759
+                                           [10]: KB4537759
+                                           [11]: KB4538674
+                                           [12]: KB4501374
+                                           [13]: KB4532693
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Realtek PCIe GbE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [02]: Realtek RTL8822BE 802.11ac PCIe Adapter
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.1.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.1.6
+                                                 [02]: fe80::5da0:50bf:5ae2:abca
+                                           [03]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi¢n: Conexi¢n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 3
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::87b:243f:2dc1:1260
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡

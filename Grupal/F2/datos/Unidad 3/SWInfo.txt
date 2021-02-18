@@ -1,0 +1,67 @@
+
+Nombre de host:                            DESKTOP-PFJ618R
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versi¢n del sistema operativo:             10.0.18362 N/D Compilaci¢n 18362
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              SAMI
+Organizaci¢n registrada:                   
+Id. del producto:                          00331-10000-00001-AA250
+Fecha de instalaci¢n original:             01/11/2019, 15:28:12
+Tiempo de arranque del sistema:            27/02/2020, 15:17:31
+Fabricante del sistema:                    LENOVO
+Modelo el sistema:                         80T7
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 76 Stepping 4 GenuineIntel ~1601 Mhz
+Versi¢n del BIOS:                          LENOVO 1GCN23WW, 05/09/2017
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Cantidad total de memoria f¡sica:          4.009 MB
+Memoria f¡sica disponible:                 391 MB
+Memoria virtual: tama¤o m ximo:            7.381 MB
+Memoria virtual: disponible:               2.595 MB
+Memoria virtual: en uso:                   4.786 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-PFJ618R
+Revisi¢n(es):                              10 revisi¢n(es) instaladas.
+                                           [01]: KB4534132
+                                           [02]: KB4513661
+                                           [03]: KB4515383
+                                           [04]: KB4516115
+                                           [05]: KB4521863
+                                           [06]: KB4524569
+                                           [07]: KB4528759
+                                           [08]: KB4537759
+                                           [09]: KB4538674
+                                           [10]: KB4532693
+Tarjeta(s) de red:                         4 Tarjetas de interfaz de red instaladas.
+                                           [01]: Bluetooth Device (Personal Area Network)
+                                                 Nombre de conexi¢n: Conexi¢n de red Bluetooth
+                                                 Estado:             Medios desconectados
+                                           [02]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      1.1.1.1
+                                                 Direcciones IP
+                                                 [01]: 172.27.83.150
+                                                 [02]: fe80::bcc9:f920:57f7:1aa0
+                                           [03]: Realtek PCIe FE Family Controller
+                                                 Nombre de conexi¢n: Ethernet
+                                                 Estado:             Medios desconectados
+                                           [04]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 169.254.111.98
+                                                 [02]: fe80::6942:aac1:eb9e:6f62
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡

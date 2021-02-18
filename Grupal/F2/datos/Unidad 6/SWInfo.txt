@@ -1,0 +1,58 @@
+
+Nombre de host:                            PORTATILJOAQUI
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versi¢n del sistema operativo:             10.0.18362 N/D Compilaci¢n 18362
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              N/D
+Organizaci¢n registrada:                   N/D
+Id. del producto:                          00325-95800-00000-AAOEM
+Fecha de instalaci¢n original:             12/09/2019, 17:53:58
+Tiempo de arranque del sistema:            17/02/2020, 9:29:57
+Fabricante del sistema:                    ASUSTeK COMPUTER INC.
+Modelo el sistema:                         UX430UAR
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 142 Stepping 10 GenuineIntel ~1494 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. UX430UAR.300, 06/10/2017
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Cantidad total de memoria f¡sica:          8.049 MB
+Memoria f¡sica disponible:                 1.738 MB
+Memoria virtual: tama¤o m ximo:            13.007 MB
+Memoria virtual: disponible:               4.132 MB
+Memoria virtual: en uso:                   8.875 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\PORTATILJOAQUI
+Revisi¢n(es):                              10 revisi¢n(es) instaladas.
+                                           [01]: KB4534132
+                                           [02]: KB4515383
+                                           [03]: KB4515530
+                                           [04]: KB4516115
+                                           [05]: KB4521863
+                                           [06]: KB4524569
+                                           [07]: KB4528759
+                                           [08]: KB4537759
+                                           [09]: KB4538674
+                                           [10]: KB4532693
+Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Kaspersky Security Data Escort Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 Estado:             Medios desconectados
+                                           [02]: Intel(R) Dual Band Wireless-AC 8265
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.100.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.100.10
+                                                 [02]: fe80::5552:5089:77a4:449a
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡

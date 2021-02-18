@@ -1,0 +1,8 @@
+.code
+
+LW R1, 0(R2)
+DADDI R1, R1, 1
+SD R1, 0(R2)
+DADDI R2, R2, 4
+DSUB R4, R3, R2
+

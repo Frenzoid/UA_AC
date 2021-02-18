@@ -1,0 +1,62 @@
+
+Nombre de host:                            DESKTOP-BJRISB6
+Nombre del sistema operativo:              Microsoft Windows 10 Home
+Versi¢n del sistema operativo:             10.0.18363 N/D Compilaci¢n 18363
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              javi17pm@gmail.com
+Organizaci¢n registrada:                   N/D
+Id. del producto:                          00325-81496-31352-AAOEM
+Fecha de instalaci¢n original:             12/10/2019, 11:01:58
+Tiempo de arranque del sistema:            01/03/2020, 13:08:14
+Fabricante del sistema:                    Dell Inc.
+Modelo el sistema:                         Inspiron 5590
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: Intel64 Family 6 Model 142 Stepping 12 GenuineIntel ~1609 Mhz
+Versi¢n del BIOS:                          Dell Inc. 1.3.0, 30/10/2019
+Directorio de Windows:                     C:\WINDOWS
+Directorio de sistema:                     C:\WINDOWS\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume1
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es;Espa¤ol (tradicional)
+Zona horaria:                              (UTC+01:00) Bruselas, Copenhague, Madrid, Par¡s
+Cantidad total de memoria f¡sica:          7.977 MB
+Memoria f¡sica disponible:                 1.405 MB
+Memoria virtual: tama¤o m ximo:            12.585 MB
+Memoria virtual: disponible:               2.714 MB
+Memoria virtual: en uso:                   9.871 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-BJRISB6
+Revisi¢n(es):                              11 revisi¢n(es) instaladas.
+                                           [01]: KB4537572
+                                           [02]: KB4497727
+                                           [03]: KB4498523
+                                           [04]: KB4516115
+                                           [05]: KB4517245
+                                           [06]: KB4521863
+                                           [07]: KB4524569
+                                           [08]: KB4528759
+                                           [09]: KB4537759
+                                           [10]: KB4538674
+                                           [11]: KB4532693
+Tarjeta(s) de red:                         2 Tarjetas de interfaz de red instaladas.
+                                           [01]: Intel(R) Wireless-AC 9462
+                                                 Nombre de conexi¢n: Wi-Fi
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      1.1.1.1
+                                                 Direcciones IP
+                                                 [01]: 172.27.105.55
+                                                 [02]: fe80::b4a5:2fca:f8d9:9870
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: VirtualBox Host-Only Network
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::4583:337e:e777:90a8
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
