@@ -6,7 +6,7 @@
   <img src="./assets/preview3.png"></img>
 </p>
 
-This repository contains the practicies that i've done during UA's Computer Architectures course, meant to learn current architecutres as CISC, RISK and types as SISD, SIMD, MISD, MIMD, and also multy-phase segmented architectures.
+This repository contains the practicies that i've done during UA's Computer Architectures subject, meant to learn current architecutres as CISC, RISK and types as SISD, SIMD, MISD, MIMD, and also multy-phase segmented architectures.
 
 In this repository you can find:
 
